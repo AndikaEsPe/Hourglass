@@ -1,0 +1,29 @@
+{
+    "activities": [
+        {
+            "end time": "23:01:08.617",
+            "name": "take a bath and chill",
+            "start time": "22:01:07.894",
+            "id": 14,
+            "deadline": 40,
+            "status": "OVERTIME"
+        },
+        {
+            "end time": "16:14:10.505",
+            "name": "study cpsc 210",
+            "start time": "16:14:09.538",
+            "id": 16,
+            "deadline": 30,
+            "status": "FINISHED"
+        },
+        {
+            "end time": "16:14:12.223",
+            "name": "study cpsc 210",
+            "start time": "16:14:11.555",
+            "id": 17,
+            "deadline": 30,
+            "status": "FINISHED"
+        }
+    ],
+    "name": "My activities"
+}

@@ -1,0 +1,21 @@
+{
+  "activities": [
+    {
+      "end time": "11:15",
+      "name": "Watch youtube",
+      "start time": "11:00",
+      "id": 1,
+      "deadline": 10,
+      "status": "FINISHED"
+    },
+    {
+      "end time": "11:46",
+      "name": "Study CPSC 210",
+      "start time": "11:15",
+      "id": 2,
+      "deadline": 30,
+      "status": "OVERTIME"
+    }
+  ],
+  "name": "Dika's activities"
+}
